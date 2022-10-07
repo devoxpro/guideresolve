@@ -11,11 +11,11 @@
       "banner_id": "943ed120b0cff13d",
       "Nativeads_id": "f6eec74f726af22a",
       "Interstitial_id": "35ecd7f2251382ca",
-      "Cpa": "true",
+      "Cpa": "false",
       "ImageUrl": "https://i.ibb.co/9s7pD5X/ruJMv0g.jpg",
       "LinkCpa": "https://i.gyazo.com/fc8ab6da762ebcd93fa67f11f5fbd1e4.png",
-      "watchNow": "true",
-      "Rating": "true"
+      "watchNow": "false",
+      "Rating": "false"
     }
   }
 }
