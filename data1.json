@@ -1,14 +1,25 @@
 [{
-		"name": "تانغو",
-		"description": "حادث سير يكشف عن خيانات ظن أصحابها أن من المستحيل فضحها، وأصدقاء يشتتهم القدر، مخلفين وراءهم خفايا صادمة تنكشف شيئاً فشيئاً",
-		"img": "https://i.imgur.com/UVwFHPx.png"
+		"name": "about Smarters Pro",
+		"description": "IPTV Smarters Pro is one of the Best IPTV Players. We have the most stable high quality internet TV Platform in the world – less downtime, buffering, freezing, and picture break-up, and more consistent high quality ‘TV over the internet’, and we are prepared to prove it!",
+		
+	"img": "https://i.ibb.co/ww9THS4/smarter.jpg"
 	},
 	{
-		"name": "لا حكم عليه",
-		"description": "يحكم على شاب بالسجن المؤبد لقتله أمه وزوجها، لكن تظهر محامية بعد خمس سنوات تحمل دليل براءته، ليخرج من السجن مصمماً على معرفة الحقيقة.",
-		"img": "https://i.imgur.com/Y7yaf9B.png"
+		"name": "F-HD IPTV Channls",
+		"description":"We provide high resolution channels 1080p, 720p and 480p to get best enjoy for our customers! with Features of Catch Up & EPG (Electronic Program Guide) for all Channels",
+		"img": "https://i.ibb.co/ww9THS4/smarter.jpg"
 	
-
+},
+	{
+		"name": "F-HD IPTV Channls",
+		"description":"We provide high resolution channels 1080p, 720p and 480p to get best enjoy for our customers! with Features of Catch Up & EPG (Electronic Program Guide) for all Channels",
+		"img": "https://i.ibb.co/ww9THS4/smarter.jpg"
+	},
+	{
+		"name": "F-HD IPTV Channls",
+		"description":"We provide high resolution channels 1080p, 720p and 480p to get best enjoy for our customers! with Features of Catch Up & EPG (Electronic Program Guide) for all Channels",
+		"img": "https://i.ibb.co/ww9THS4/smarter.jpg"
+	
 
 	}
 
